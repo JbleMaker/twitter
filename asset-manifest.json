@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/JbleMaker/twitter/static/css/main.a749d3de.css",
-    "main.js": "/JbleMaker/twitter/static/js/main.c8fc5b6f.js",
+    "main.js": "/JbleMaker/twitter/static/js/main.7ff5f159.js",
     "index.html": "/JbleMaker/twitter/index.html",
     "main.a749d3de.css.map": "/JbleMaker/twitter/static/css/main.a749d3de.css.map",
-    "main.c8fc5b6f.js.map": "/JbleMaker/twitter/static/js/main.c8fc5b6f.js.map"
+    "main.7ff5f159.js.map": "/JbleMaker/twitter/static/js/main.7ff5f159.js.map"
   },
   "entrypoints": [
     "static/css/main.a749d3de.css",
-    "static/js/main.c8fc5b6f.js"
+    "static/js/main.7ff5f159.js"
   ]
 }
