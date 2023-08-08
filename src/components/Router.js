@@ -1,4 +1,4 @@
-import { HashRouter, Routes, Route } from "react-router-dom";
+import { Routes, Route, HashRouter } from "react-router-dom";
 import Auth from "../routes/Auth";
 import Home from "../routes/Home";
 import Profile from "routes/Profile";
@@ -7,7 +7,7 @@ import Navigation from "./Navigation";
 const AppRouter = ({ refreshUser, logIn, userObj }) => {
   return (
     <div>
-      <HashRouter basename={process.env.PUBLIC_URL}>
+      <HashRouter basename="/">
         {logIn && <Navigation userObj={userObj} />}
         <div
           style={{
